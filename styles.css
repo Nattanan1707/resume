@@ -69,12 +69,16 @@ header1 ul li a:hover{
 /* <!-- 2.About--> */
 #about{
   padding: 40px 0;
-  color: #080808;
+  color: white;
+  font-weight: bold;
+  text-shadow: black 0.1em 0.1em 0.2em
 }
 
 
 /* 3.Contact */
 #contact{
   padding: 40px 0;
-  color: #080808;
+  color: white;
+  font-weight: bold;
+  text-shadow: black 0.1em 0.1em 0.2em
 }
