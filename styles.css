@@ -1,0 +1,87 @@
+body{background-color:	#ffe4c4;}
+hr{
+   border-style: dotted none none;
+   border-color: grey;
+   border-width: 5px;
+  }
+
+header1{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 22px;
+}
+
+header1 .logo{
+  color: #990033;
+  font-weight: 900;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  /* text-indent: 2em; */
+}
+
+header1 ul
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header1 ul li{
+  list-style: none;
+  margin-left: 20px;
+}
+
+header1 ul li a{
+  text-decoration: none;
+  padding: 6px 15px;
+  color: #CC3366;
+  border-radius: 20px;
+}
+
+header1 ul li a:hover{
+  background: #fff;
+  color: #2b1055;
+}
+
+/* <!-- 1.Home--> */
+.home-header{
+  padding: 200px 50px;
+  color: #CC6699;
+  font-size: 100px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+
+/* <!-- 2.About--> */
+#about{
+  padding: 40px 0;
+  color: #080808;
+  background: #FFCCFF;
+}
+
+/* <!-- 3.Work--> */
+#work{
+  padding: 40px 0;
+  color: #080808;
+  background: #ffe4c4
+}
+
+/* 4.Skills */
+#skills{
+  padding: 40px 0;
+  color: #080808;
+  background: #FFCCFF;
+}
+
+/* 5.Contact */
+#contact{
+  padding: 40px 0;
+  color: #080808;
+  background: #ffe4c4;
+}
