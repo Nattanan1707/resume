@@ -62,26 +62,11 @@ header1 ul li a:hover{
 #about{
   padding: 40px 0;
   color: #080808;
-  background: #FFCCFF;
 }
 
-/* <!-- 3.Work--> */
-#work{
-  padding: 40px 0;
-  color: #080808;
-  background: #ffe4c4
-}
 
-/* 4.Skills */
-#skills{
-  padding: 40px 0;
-  color: #080808;
-  background: #FFCCFF;
-}
-
-/* 5.Contact */
+/* 3.Contact */
 #contact{
   padding: 40px 0;
   color: #080808;
-  background: #ffe4c4;
 }
